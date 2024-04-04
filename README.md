@@ -1,5 +1,5 @@
-## NAME:BALAJI S
-## REG NO:212223040024
+## NAME:HARISH S
+## REG NO:212223230071
 
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
